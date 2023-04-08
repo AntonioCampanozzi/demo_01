@@ -1,4 +1,4 @@
-*Team participation*
+# Team participation*
 
 Sistemare i problemi del team è la mia prima priorità assoluta.
 Partecipare alle revisioni di codice del mio team è la mia seconda priorità assoluta.
@@ -9,13 +9,13 @@ Fornirò aiuto quando viene richiesto.
 Sarò sempre onesto e trasparente.
 Se non credo che qualcosa sia possibile lo dirò senza esitazione.
 
-*Peer reviews*
+# Peer reviews*
 
 Sarò professionale e con tatto quando revisionerò il lavoro.
 Sarò aperto a ricevere un feedback positivo o non quando gli altri membri revisioneranno il mio lavoro.
 Renderò il mio lavoro disponibile alla revisione almeno a due giorni dalla consegna per rendere possibili modifiche.
 
-*Writing code*
+# Writing code*
 
 Esprimerò me stesso attraverso il codice.
 Aggiungerò dei commenti dove non sarà apossibil esprimermi in modo chiaro.
