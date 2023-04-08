@@ -3,7 +3,7 @@
 
 **Team participation**
 
--Sistemare i problemi del team è la mia prima priorità assoluta.
+-Sistemare i problemi del team è la mia prima priorità assoluta.\n  
 -Partecipare alle revisioni di codice del mio team è la mia seconda priorità assoluta.
 -Migliorare l'efficienza del team è più importante di migliorare la mia efficienza.
 -Non sarò mai in ritardo agli incontri, avviserò se ho prblemi in quell'orario.
