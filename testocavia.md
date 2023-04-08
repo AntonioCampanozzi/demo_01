@@ -1,27 +1,27 @@
 # Codice di condotta gruppo Scott
 
 
-**Team participation**
+## Team participation
 
--Sistemare i problemi del team è la mia prima priorità assoluta.\n  
--Partecipare alle revisioni di codice del mio team è la mia seconda priorità assoluta.
--Migliorare l'efficienza del team è più importante di migliorare la mia efficienza.
--Non sarò mai in ritardo agli incontri, avviserò se ho prblemi in quell'orario.
--Chiederò aiuto quando ne avrò bisogno.
--Fornirò aiuto quando viene richiesto.
--Sarò sempre onesto e trasparente.
--Se non credo che qualcosa sia possibile lo dirò senza esitazione.
+- Sistemare i problemi del team è la mia prima priorità assoluta.\n  
+- Partecipare alle revisioni di codice del mio team è la mia seconda priorità assoluta.
+- Migliorare l'efficienza del team è più importante di migliorare la mia efficienza.
+- Non sarò mai in ritardo agli incontri, avviserò se ho prblemi in quell'orario.
+- Chiederò aiuto quando ne avrò bisogno.
+- Fornirò aiuto quando viene richiesto.
+- Sarò sempre onesto e trasparente.
+- Se non credo che qualcosa sia possibile lo dirò senza esitazione.
 
 **Peer reviews**
 
--Sarò professionale e con tatto quando revisionerò il lavoro.
--Sarò aperto a ricevere un feedback positivo o non quando gli altri membri revisioneranno il mio lavoro.
--Renderò il mio lavoro disponibile alla revisione almeno a due giorni dalla consegna per rendere possibili modifiche.
+- Sarò professionale e con tatto quando revisionerò il lavoro.
+- Sarò aperto a ricevere un feedback positivo o non quando gli altri membri revisioneranno il mio lavoro.
+- Renderò il mio lavoro disponibile alla revisione almeno a due giorni dalla consegna per rendere possibili modifiche.
 
 **Writing code**
 
--Esprimerò me stesso attraverso il codice.
--Aggiungerò dei commenti dove non sarà apossibil esprimermi in modo chiaro.
--Scriverò un codice che si adatta allo stile di programmazione del mio team.
--Non manderò in revisione un codice senza un completo unit test in memoria.
--Non manderò in revisione un codice che provoca l'emissione di un warning da parte di qualsiasi altro strumento
+- Esprimerò me stesso attraverso il codice.
+- Aggiungerò dei commenti dove non sarà apossibil esprimermi in modo chiaro.
+- Scriverò un codice che si adatta allo stile di programmazione del mio team.
+- Non manderò in revisione un codice senza un completo unit test in memoria.
+- Non manderò in revisione un codice che provoca l'emissione di un warning da parte di qualsiasi altro strumento
