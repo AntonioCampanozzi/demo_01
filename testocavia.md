@@ -27,4 +27,7 @@
 - Non manderò in revisione un codice senza un completo unit test in memoria.
 - Non manderò in revisione un codice che provoca l'emissione di un warning da parte di qualsiasi altro strumento
 
+
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
